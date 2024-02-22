@@ -22,7 +22,7 @@ WeatherNow - это расширение для Visual Studio Code, которо
 
 Для работы этого расширения требуется доступ к интернету, так как оно использует API для получения данных о погоде.
 
-## Ссылка на само расширение
+## Ссылка на расширение
 
-[WeatherNow-V1](weathernow-0.0.1.vsix "Нажмите чтобы скачать" target="_blank" download)
+[Скачать файл расширения](https://github.com/AlexMadibaev/Weather-Now/raw/master/weathernow-0.0.1.vsix)
 
