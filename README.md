@@ -1,6 +1,6 @@
 # WeatherNow
 
-[Иконка WeatherNow](images/weather-icon.png =50%x50%)
+![Иконка WeatherNow](images/weather-icon.png =50%x50%)
 
 WeatherNow - это расширение для Visual Studio Code, которое позволяет получать текущую погоду для заданного города.
 
